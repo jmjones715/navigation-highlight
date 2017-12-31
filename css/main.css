@@ -28,6 +28,7 @@ h1 {
   text-align: center;
   margin: .3em;
   padding: 0;
+  margin-top: 0;
 }
 
 .header ul {
