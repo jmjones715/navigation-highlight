@@ -26,7 +26,7 @@ h1 {
 
 .header nav {
   text-align: center;
-  margin: .3em;
+  margin: 0 .3em .3em;
   padding: 0;
 }
 
@@ -66,7 +66,6 @@ h2 {
 }
 
 .main {
-  margin: .3em;
   padding: 0 .75em;
 }
 
@@ -76,7 +75,7 @@ h2 {
 
 img {
   display: block;
-  width: 23em;
+  width: 100%;
 }
 
 footer {
